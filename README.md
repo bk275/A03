@@ -7,7 +7,7 @@
 
 <ul>
   <li>
-**Branch**: A pathway of file changes within Git that encapsulate an idea. A branch is created when someone working on the project wants to clone a specific file and make changes to it without changing the entire thing.
+    <strong>Branch</strong> : A pathway of file changes within Git that encapsulate an idea. A branch is created when someone working on the project wants to clone a specific file and make changes to it without changing the entire thing.
     </li>
   <li>
   **Clone**: To make a replica of a file in order to work on a different idea on the same file.
