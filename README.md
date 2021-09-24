@@ -1,10 +1,28 @@
 # A03
-1. Download Git from https://git-scm.com/downloads
+1. Download Git from https://git-scm.com/downloads (Keep this location in mind)
 2. Download Webstorm through JetBrains from https://www.jetbrains.com/student/
 3. Create a GitHub account on https://github.com/join
-4. 
-
-
+4. Open Webstorm and press Ctrl+Alt+S to get to the System Preferences.
+5. Under  Version Control, choose Git, and then the Path to Git executable option
+6. Enter the location where you downloaded Git here.
+7. Go to System Settings under Appearance & Behavior on the left-hand bar.
+8. Click the Passwords option choose a folder on your computer.
+9. Click OK.
+10. Go to your Github account and click the green "New" button to create a new repository.
+11. Name it something significant and if needed, add a .readme file here.
+12. Add an index.html file to start.
+13. Choose the Clone from VCS option in Webstorm.
+14. Connect your Github account to Webstorm.
+15. Choose the freshly made repository.
+16. Enter any HTML code you want within the index.html file.
+17. When ready, click Git in the top bar and click Commit. Fix any warnings/errors beforehand.
+18. Click Git and then Push once the Commit worked.
+19. Go to the Github repository and click Settings.
+20. Choose the Pages option on the left-hand side.
+21. Make sure that you have the Source option enabled to be built from main.
+22. Once done, you'll be able to click the link at the top and be able to see the changes you've made.
+23. You might have to relaunch or refresh the page with every change.
+<br>
 <ul>
   <li>
     <strong>Branch</strong> : A pathway of file changes within Git that encapsulate an idea. A branch is created when someone working on the project wants to clone a specific file and make changes to it without changing the entire thing.
